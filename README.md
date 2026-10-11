@@ -37,6 +37,15 @@ body{margin:0;padding:22px;font-family:Arial,Helvetica,sans-serif;background:var
     </div>
   </section>
 
+<section class="reporte revcom">
+    <div class="reporte-cabecera"><div><h2 class="nombre">🟣 Notificación al Sistema de Vigilancia Comunitaria (REVCOM)</h2><p class="descripcion">Reporte semanal.</p></div><span class="plazo">Todos los viernes · antes de las 12:00 p. m.</span></div>
+    <div class="controles">
+      <label class="check"><input type="checkbox" data-key="sivigila-2026-10-05"> 05 OCT</label><label class="check"><input type="checkbox" data-key="sivigila-2026-10-12"> 12 OCT</label><label class="check"><input type="checkbox" data-key="sivigila-2026-10-19"> 19 OCT</label><label class="check"><input type="checkbox" data-key="sivigila-2026-10-26"> 26 OCT</label>
+      <label class="check"><input type="checkbox" data-key="sivigila-2026-11-02"> 02 NOV</label><label class="check"><input type="checkbox" data-key="sivigila-2026-11-09"> 09 NOV</label><label class="check"><input type="checkbox" data-key="sivigila-2026-11-16"> 16 NOV</label><label class="check"><input type="checkbox" data-key="sivigila-2026-11-23"> 23 NOV</label><label class="check"><input type="checkbox" data-key="sivigila-2026-11-30"> 30 NOV</label>
+      <label class="check"><input type="checkbox" data-key="sivigila-2026-12-07"> 07 DIC</label><label class="check"><input type="checkbox" data-key="sivigila-2026-12-14"> 14 DIC</label><label class="check"><input type="checkbox" data-key="sivigila-2026-12-21"> 21 DIC</label><label class="check"><input type="checkbox" data-key="sivigila-2026-12-28"> 28 DIC</label>
+    </div>
+  </section>
+  
   <section class="reporte mental">
     <div class="reporte-cabecera"><div><h2 class="nombre">🧠 Notificación de acciones del Plan de Acción en Salud Mental</h2><p class="descripcion">Reporte semanal.</p></div><span class="plazo">Todos los lunes · antes de las 4:00 p. m.</span></div>
     <div class="controles">
@@ -61,8 +70,8 @@ body{margin:0;padding:22px;font-family:Arial,Helvetica,sans-serif;background:var
     <div class="controles"><label class="check"><input type="checkbox" data-key="bai-2026-10"> OCTUBRE</label><label class="check"><input type="checkbox" data-key="bai-2026-11"> NOVIEMBRE</label><label class="check"><input type="checkbox" data-key="bai-2026-12"> DICIEMBRE</label></div>
   </section>
 
-  <section class="reporte revcom">
-    <div class="reporte-cabecera"><div><h2 class="nombre">🌸 REVCOM</h2><p class="descripcion">Vigilancia epidemiológica basada en comunidad.</p></div><span class="plazo">Antes de las 12:00 p. m.</span></div>
+  <section class="reporte covecom">
+    <div class="reporte-cabecera"><div><h2 class="nombre">🌸 COVECOM</h2><p class="descripcion">Vigilancia epidemiológica basada en comunidad.</p></div><span class="plazo">Antes de las 12:00 p. m.</span></div>
     <div class="controles"><label class="check"><input type="checkbox" data-key="revcom-2026-10"> OCTUBRE</label><label class="check"><input type="checkbox" data-key="revcom-2026-11"> NOVIEMBRE</label><label class="check"><input type="checkbox" data-key="revcom-2026-12"> DICIEMBRE</label></div>
   </section>
 
